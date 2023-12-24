@@ -10,7 +10,4 @@ W = V.getenv('__Secure-1PSIDTS') #bard cookies
 api = V.getenv('api') #tg bot api
 ```
 
-- author : evilcoder443
-- powered by rise development
-
 ---
